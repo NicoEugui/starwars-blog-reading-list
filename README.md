@@ -38,9 +38,3 @@ This boilerplate comes with a centralized general Context API. The file `./src/j
 
 ## Publish your website!
 This project is compatible with various hosting services, including Vercel and GitHub Pages. Follow the appropriate instructions to publish your site.
-
-I hope this is what you need! Let me know if you have any other questions or need further assistance.
-
-
-
-
